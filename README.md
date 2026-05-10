@@ -1,14 +1,14 @@
 # Summary
 
-I am a software developer with experience in web and various programming languages. I am responsible, honest, and enjoy teamwork.
+Junior Software Developer & Intelligent Systems Engineer with a strong foundation in full-stack development and automated systems. I specialize in building scalable applications using JavaScript (React/Next.js), C#, and Node.js.
 
 # Skills
 
 *  Programming languages: 
-![Languages](https://skillicons.dev/icons?i=js,html,css)
+![Languages](https://skillicons.dev/icons?i=js,cs,sql,python)
 
 * Tools: 
-![Tools](https://skillicons.dev/icons?i=git,postman,github,mysql)
+![Tools](https://skillicons.dev/icons?i=git,postman,github,docker)
 
 * Frameworks: 
 ![Frameworks](https://skillicons.dev/icons?i=react,next)
