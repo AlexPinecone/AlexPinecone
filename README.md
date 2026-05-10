@@ -5,7 +5,7 @@ Junior Software Developer & Intelligent Systems Engineer with a strong foundatio
 # Skills
 
 *  Programming languages: 
-![Languages](https://skillicons.dev/icons?i=js,cs,sql,python)
+![Languages](https://skillicons.dev/icons?i=js,cs,mysql,python)
 
 * Tools: 
 ![Tools](https://skillicons.dev/icons?i=git,postman,github,docker)
