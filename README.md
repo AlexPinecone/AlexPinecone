@@ -8,4 +8,4 @@ Software Developer with a strong foundation in full-stack and game development. 
 ![Languages](https://skillicons.dev/icons?i=cs,ts,js)
 
 * Technologies: 
-![Tools](https://skillicons.dev/icons?i=git,react,next,unity,godot,unreal)
+![Tools](https://skillicons.dev/icons?i=react,next,unity,godot)
