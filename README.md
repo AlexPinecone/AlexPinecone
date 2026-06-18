@@ -1,6 +1,6 @@
 # Summary
 
-Junior Software Developer & Intelligent Systems Engineer with a strong foundation in full-stack development and automated systems. I specialize in building scalable applications using JavaScript (React/Next.js), C#, and Node.js.
+Software Developer with a strong foundation in full-stack and game development. I build scalable applications using C# and React.
 
 # Skills
 
