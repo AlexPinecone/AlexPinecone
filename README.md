@@ -7,14 +7,5 @@ Junior Software Developer & Intelligent Systems Engineer with a strong foundatio
 *  Programming languages: 
 ![Languages](https://skillicons.dev/icons?i=cs,ts,js)
 
-* Tools: 
-![Tools](https://skillicons.dev/icons?i=git,postman,github,docker)
-
-* Frameworks: 
-![Frameworks](https://skillicons.dev/icons?i=react,next)
-
-# Contact
-
-[Email](alejandro.pina.mail@gmail.com)
-
-[LinkedIn](www.linkedin.com/in/alexpinna)
+* Technologies: 
+![Tools](https://skillicons.dev/icons?i=git,react,next,unity,godot,unreal)
